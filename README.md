@@ -16,3 +16,7 @@ cargo build
 cargo run
 ```
 
+To run in python (requires numpy, websockets).
+```bash
+python3 pnl.py
+```
